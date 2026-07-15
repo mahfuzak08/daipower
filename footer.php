@@ -13,7 +13,7 @@
 								<li><i class="flaticon-placeholder"></i>2364A SERANGOON ROAD, SINGAPORE 218084</li>
 								<li><i class="flaticon-telephone"></i><a href="tel:6583532945">+6583532945</a>, <a href="tel:6589477182">+6589477182</a></li>
 								<li><i class="fa fa-globe"></i><a href="http://www.daipower.com.sg" target="_blank">www.daipower.com.sg</a></li>
-								<li><i class="flaticon-email"></i><a href="mailto:akramul@daipower.com.sg">akramul@daipower.com.sg</a></li>
+								<li><i class="flaticon-email"></i><a href="mailto:info@daipower.com.sg">info@daipower.com.sg</a></li>
 							</ul><br>
 							<a class="btn-link style-2" href="https://maps.app.goo.gl/1w2ARknzucY21PSTA">GET DIRECTIONS <i class="m-l5 las la-plus"></i></a>
 						</div>

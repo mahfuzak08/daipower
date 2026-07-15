@@ -29,7 +29,7 @@
 			</div>
 			<div class="icon-content">
 				<h5 class="tilte">Email Now</h5>
-				<p class="m-b0">akramul@daipower.com.sg</p>
+				<p class="m-b0">info@daipower.com.sg</p>
 			</div>
 		</div>
 		<div class="icon-bx-wraper left">

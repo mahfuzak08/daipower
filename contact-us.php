@@ -114,7 +114,7 @@
         									</div>
         									<div class="icon-content">
         										<h4 class="tilte m-b10">Email</h4>
-        										<p class="m-b0"><a href="mailto:akramul@daipower.com.sg">akramul@daipower.com.sg</a></p>
+        										<p class="m-b0"><a href="mailto:info@daipower.com.sg">info@daipower.com.sg</a></p>
         									</div>
     									</div>
     									<div class="col-md-12 m-t20">
@@ -173,7 +173,7 @@
         									</div>
         									<div class="icon-content">
         										<h4 class="tilte m-b10">Email</h4>
-        										<p class="m-b0"><a href="mailto:akramul@daipower.com.sg">akramul@daipower.com.sg</a></p>
+        										<p class="m-b0"><a href="mailto:info@daipower.com.sg">info@daipower.com.sg</a></p>
         									</div>
     									</div>
     									<div class="col-md-12 m-t20">

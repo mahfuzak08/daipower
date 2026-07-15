@@ -19,7 +19,7 @@
 				</button>
 				<div class="extra-nav">
 					<div class="extra-cell">
-						<a href="mailto:akramul@daipower.com.sg" class="btn shadow-primary btn-primary login-btn">
+						<a href="mailto:info@daipower.com.sg" class="btn shadow-primary btn-primary login-btn">
 							<i class="flaticon-email scale3"></i>
 							<span>Enquire Now</span>
 						</a>
